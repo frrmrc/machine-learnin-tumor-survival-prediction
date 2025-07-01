@@ -27,13 +27,13 @@ seer-survival-regression/
 │
 ├── README.md
 ├── requirements.txt
+├──presentation.pdf
 ├── data/
 │  └──instructions.md     
-├── notebooks/
-│  ├── 0_data_cleaning.ipynb
-│  └── 1_modeling.ipynb
-└──graphs/ presentation/
-   └── esame_machine_learning.pdf
+└── notebooks/
+   ├── 0_data_cleaning.ipynb
+   └── 1_modeling.ipynb
+
 
 ```
 
